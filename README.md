@@ -13,7 +13,7 @@ Enter the following command lines on your terminal.
 
 roscore
 
-Open another terminal and launch the turtlebot3 empty world : 
+Open another terminal and launch the turtlebot3 empty world using the following command lines: 
 
 cd 
 
