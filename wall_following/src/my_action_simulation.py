@@ -77,5 +77,3 @@ class RecordedOdomClass(object):
 if __name__ == '__main__':
     rospy.init_node('my_action_node')
     RecordedOdomClass()
-
-# rosrun wall_following my_action_simulation.py
