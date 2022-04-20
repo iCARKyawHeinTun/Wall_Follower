@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="wall_following" type="my_action_simulation.py" name="my_action_node" output="screen" />
+    <node pkg="wall_following" type="my_wall_find_file_simulation.py" name="my_wall_find_service" output="screen" />
+    <node pkg="wall_following" type="my_python_file_simulation.py" name="my_node_wall" output="screen" />
+</launch>
