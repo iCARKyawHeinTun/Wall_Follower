@@ -5,7 +5,7 @@ This project was intended just to practice my basic ros knowledge.
 Custom messages are used for ROS Service and Action.
 ROS Service is used for searching the wall.
 ROS Action is used to feedback the distance moved and to return the odom readings as the result.
-This tutorials regrad that ROS Noetic, Python3 and Turtlebot3 packages are already downloaded on the user's computer.
+This tutorials regrad that ROS Noetic, Python3 and Turtlebot3 packages are already installed on the user's computer.
 
 # Prepare the gazebo environment
 
